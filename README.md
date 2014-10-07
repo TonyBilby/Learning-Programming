@@ -1,4 +1,4 @@
-Tax-Calculator
+Learning-Programming
 ==============
 
-One of the first programming projects I ever made
+Some of the first programming projects I ever made. Contains Java, C# and possibly even PHP
